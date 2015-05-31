@@ -1,4 +1,4 @@
-package org.getrate.inr;
+package org.shinigami.getrate.inr;
 
 /**
  * <p>
